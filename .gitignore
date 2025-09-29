@@ -1,0 +1,6 @@
+# python stuff
+__pycache__
+.venv
+
+# our output
+stats.log
